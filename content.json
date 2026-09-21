@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "profile": {
+    "name": "Raphael Jos",
+    "role": "AI-native creative producer",
+    "email": "",
+    "youtube": "https://www.youtube.com/@raphaeljos",
+    "summary": "I take brand films, music videos, and sonic identities from concept to final master \u2014 writing, generating, editing, and scoring every stage in a single generative pipeline.",
+    "bio": "Currently producing AI-generated brand content at India Today Group\u2019s AI Department. My practice brings together 20+ image, video, and music generation models with a foundation in editing, compositing, and sound design.",
+    "languages": "English \u00b7 Malayalam \u00b7 Hindi \u00b7 Tamil"
+  },
+  "projects": [
+    {
+      "id": "mahindra-be6",
+      "title": "Mahindra BE6",
+      "category": "Automotive",
+      "type": "Independent concept campaign",
+      "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
+      "role": "Concept \u00b7 Script \u00b7 AI production \u00b7 Edit \u00b7 Original score",
+      "youtube": "",
+      "cover": "",
+      "images": [],
+      "audio": [],
+      "color": "#b7dd78"
+    },
+    {
+      "id": "chanel",
+      "title": "Chanel",
+      "category": "Beauty & fashion",
+      "type": "Independent concept campaign",
+      "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
+      "role": "Concept \u00b7 Script \u00b7 AI production \u00b7 Edit \u00b7 Original score",
+      "youtube": "",
+      "cover": "",
+      "images": [],
+      "audio": [],
+      "color": "#b49ce2"
+    },
+    {
+      "id": "phonepe",
+      "title": "PhonePe",
+      "category": "Fintech",
+      "type": "Independent concept campaign",
+      "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
+      "role": "Concept \u00b7 Script \u00b7 AI production \u00b7 Edit \u00b7 Original score",
+      "youtube": "",
+      "cover": "",
+      "images": [],
+      "audio": [],
+      "color": "#abaff5"
+    },
+    {
+      "id": "nike",
+      "title": "Nike",
+      "category": "Sport & lifestyle",
+      "type": "Independent concept campaign",
+      "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
+      "role": "Concept \u00b7 Script \u00b7 AI production \u00b7 Edit \u00b7 Original score",
+      "youtube": "",
+      "cover": "",
+      "images": [],
+      "audio": [],
+      "color": "#e6885f"
+    },
+    {
+      "id": "nykaa",
+      "title": "Nykaa",
+      "category": "Beauty & fashion",
+      "type": "Independent concept campaign",
+      "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
+      "role": "Concept \u00b7 Script \u00b7 AI production \u00b7 Edit \u00b7 Original score",
+      "youtube": "",
+      "cover": "",
+      "images": [],
+      "audio": [],
+      "color": "#e5a0ad"
+    },
+    {
+      "id": "hyundai-i10-nios",
+      "title": "Hyundai i10 Nios",
+      "category": "Automotive",
+      "type": "Independent concept campaign",
+      "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
+      "role": "Concept \u00b7 Script \u00b7 AI production \u00b7 Edit \u00b7 Original score",
+      "youtube": "",
+      "cover": "",
+      "images": [],
+      "audio": [],
+      "color": "#82babb"
+    },
+    {
+      "id": "suzuki-jimny",
+      "title": "Suzuki Jimny",
+      "category": "Automotive",
+      "type": "Independent concept campaign",
+      "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
+      "role": "Concept \u00b7 Script \u00b7 AI production \u00b7 Edit \u00b7 Original score",
+      "youtube": "",
+      "cover": "",
+      "images": [],
+      "audio": [],
+      "color": "#c3bb94"
+    }
+  ]
+}
