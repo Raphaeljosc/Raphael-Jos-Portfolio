@@ -18,11 +18,80 @@
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
       "role": "Concept · Script · AI production · Edit · Original score",
       "youtube": "https://youtu.be/DGziOImxjcQ",
-      "cover": "assets/media-1.png",
-      "images": [],
+      "cover": "assets/media-1.jpg",
+      "images": [
+        {
+          "src": "assets/media-2.jpg",
+          "caption": "1"
+        },
+        {
+          "src": "assets/media-3.jpg",
+          "caption": "4 Bat logo formation"
+        },
+        {
+          "src": "assets/media-4.jpg",
+          "caption": "Bat eye closeup"
+        },
+        {
+          "src": "assets/media-5.jpg",
+          "caption": "Bat logo last frame"
+        },
+        {
+          "src": "assets/media-6.jpg",
+          "caption": "Car tunnel"
+        },
+        {
+          "src": "assets/media-7.jpg",
+          "caption": "cliff 1.1"
+        },
+        {
+          "src": "assets/media-8.jpg",
+          "caption": "cliff 1.2"
+        },
+        {
+          "src": "assets/media-9.jpg",
+          "caption": "cliff front lights of"
+        },
+        {
+          "src": "assets/media-10.jpg",
+          "caption": "cliff rear lights on"
+        },
+        {
+          "src": "assets/media-11.jpg",
+          "caption": "Dystopian road"
+        },
+        {
+          "src": "assets/media-12.jpg",
+          "caption": "final batman logo"
+        },
+        {
+          "src": "assets/media-13.jpg",
+          "caption": "final no logo"
+        },
+        {
+          "src": "assets/media-14.jpg",
+          "caption": "final"
+        },
+        {
+          "src": "assets/media-15.jpg",
+          "caption": "logo front"
+        },
+        {
+          "src": "assets/media-16.jpg",
+          "caption": "logo rear new"
+        },
+        {
+          "src": "assets/media-17.jpg",
+          "caption": "media-1"
+        },
+        {
+          "src": "assets/media-18.jpg",
+          "caption": "top building"
+        }
+      ],
       "audio": [
         {
-          "src": "assets/media-2.mp3",
+          "src": "assets/media-19.mp3",
           "title": "BGM 2"
         }
       ],
@@ -36,11 +105,88 @@
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
       "role": "Concept · Script · AI production · Edit · Original score",
       "youtube": "https://youtu.be/Rd9aZBL9YSE",
-      "cover": "assets/media-3.png",
-      "images": [],
+      "cover": "assets/media-20.jpg",
+      "images": [
+        {
+          "src": "assets/media-21.jpg",
+          "caption": "1"
+        },
+        {
+          "src": "assets/media-22.jpg",
+          "caption": "2"
+        },
+        {
+          "src": "assets/media-23.jpg",
+          "caption": "3"
+        },
+        {
+          "src": "assets/media-24.jpg",
+          "caption": "4.0"
+        },
+        {
+          "src": "assets/media-25.jpg",
+          "caption": "4.1"
+        },
+        {
+          "src": "assets/media-26.jpg",
+          "caption": "5.0"
+        },
+        {
+          "src": "assets/media-27.jpg",
+          "caption": "5.1"
+        },
+        {
+          "src": "assets/media-28.jpg",
+          "caption": "5.2"
+        },
+        {
+          "src": "assets/media-29.jpg",
+          "caption": "6"
+        },
+        {
+          "src": "assets/media-30.jpg",
+          "caption": "7 new"
+        },
+        {
+          "src": "assets/media-31.jpg",
+          "caption": "8.0"
+        },
+        {
+          "src": "assets/media-32.jpg",
+          "caption": "8.1"
+        },
+        {
+          "src": "assets/media-33.jpg",
+          "caption": "9"
+        },
+        {
+          "src": "assets/media-34.jpg",
+          "caption": "10 draft"
+        },
+        {
+          "src": "assets/media-35.jpg",
+          "caption": "10 new"
+        },
+        {
+          "src": "assets/media-36.jpg",
+          "caption": "10_1"
+        },
+        {
+          "src": "assets/media-37.jpg",
+          "caption": "10.1"
+        },
+        {
+          "src": "assets/media-38.jpg",
+          "caption": "10"
+        },
+        {
+          "src": "assets/media-39.jpg",
+          "caption": "room"
+        }
+      ],
       "audio": [
         {
-          "src": "assets/media-4.wav",
+          "src": "assets/media-40.wav",
           "title": "Skin Secret"
         }
       ],
@@ -54,11 +200,108 @@
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
       "role": "Concept · Script · AI production · Edit · Original score",
       "youtube": "https://youtu.be/YBAK9jPf8vY",
-      "cover": "assets/media-5.png",
-      "images": [],
+      "cover": "assets/media-41.png",
+      "images": [
+        {
+          "src": "assets/media-42.jpg",
+          "caption": "1"
+        },
+        {
+          "src": "assets/media-43.jpg",
+          "caption": "2.1"
+        },
+        {
+          "src": "assets/media-44.jpg",
+          "caption": "2.2"
+        },
+        {
+          "src": "assets/media-45.jpg",
+          "caption": "3"
+        },
+        {
+          "src": "assets/media-46.jpg",
+          "caption": "4.2.1"
+        },
+        {
+          "src": "assets/media-47.jpg",
+          "caption": "4.2.2"
+        },
+        {
+          "src": "assets/media-48.jpg",
+          "caption": "4"
+        },
+        {
+          "src": "assets/media-49.jpg",
+          "caption": "5.1"
+        },
+        {
+          "src": "assets/media-50.jpg",
+          "caption": "6.1"
+        },
+        {
+          "src": "assets/media-51.jpg",
+          "caption": "6.2"
+        },
+        {
+          "src": "assets/media-52.jpg",
+          "caption": "7.0"
+        },
+        {
+          "src": "assets/media-53.jpg",
+          "caption": "7.1"
+        },
+        {
+          "src": "assets/media-54.jpg",
+          "caption": "7.2"
+        },
+        {
+          "src": "assets/media-55.jpg",
+          "caption": "8.0"
+        },
+        {
+          "src": "assets/media-56.jpg",
+          "caption": "8.1"
+        },
+        {
+          "src": "assets/media-57.jpg",
+          "caption": "9.0"
+        },
+        {
+          "src": "assets/media-58.jpg",
+          "caption": "9.1 lift close"
+        },
+        {
+          "src": "assets/media-59.jpg",
+          "caption": "10.0 phonepe"
+        },
+        {
+          "src": "assets/media-60.jpg",
+          "caption": "10.1"
+        },
+        {
+          "src": "assets/media-61.jpg",
+          "caption": "11"
+        },
+        {
+          "src": "assets/media-62.jpg",
+          "caption": "12.1"
+        },
+        {
+          "src": "assets/media-63.jpg",
+          "caption": "12.2"
+        },
+        {
+          "src": "assets/media-64.jpg",
+          "caption": "13.0"
+        },
+        {
+          "src": "assets/media-65.jpg",
+          "caption": "13.1"
+        }
+      ],
       "audio": [
         {
-          "src": "assets/media-6.mp3",
+          "src": "assets/media-66.mp3",
           "title": "PhonePe ad BGM"
         }
       ],
@@ -72,11 +315,68 @@
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
       "role": "Concept · Script · AI production · Edit · Original score",
       "youtube": "https://youtu.be/5gQwNXwuYq4",
-      "cover": "assets/media-7.png",
-      "images": [],
+      "cover": "assets/media-67.jpg",
+      "images": [
+        {
+          "src": "assets/media-68.jpg",
+          "caption": "1"
+        },
+        {
+          "src": "assets/media-69.jpg",
+          "caption": "1j"
+        },
+        {
+          "src": "assets/media-70.jpg",
+          "caption": "2"
+        },
+        {
+          "src": "assets/media-71.jpg",
+          "caption": "2j"
+        },
+        {
+          "src": "assets/media-72.jpg",
+          "caption": "3"
+        },
+        {
+          "src": "assets/media-73.jpg",
+          "caption": "3j"
+        },
+        {
+          "src": "assets/media-74.jpg",
+          "caption": "4"
+        },
+        {
+          "src": "assets/media-75.jpg",
+          "caption": "4j"
+        },
+        {
+          "src": "assets/media-76.jpg",
+          "caption": "5"
+        },
+        {
+          "src": "assets/media-77.jpg",
+          "caption": "5j"
+        },
+        {
+          "src": "assets/media-78.jpg",
+          "caption": "6"
+        },
+        {
+          "src": "assets/media-79.jpg",
+          "caption": "7"
+        },
+        {
+          "src": "assets/media-80.jpg",
+          "caption": "8"
+        },
+        {
+          "src": "assets/media-81.jpg",
+          "caption": "mumbai"
+        }
+      ],
       "audio": [
         {
-          "src": "assets/media-8.mp3",
+          "src": "assets/media-82.mp3",
           "title": "2"
         }
       ],
@@ -90,11 +390,72 @@
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
       "role": "Concept · Script · AI production · Edit · Original score",
       "youtube": "https://youtube.com/shorts/Lmd-J2jyZsc?feature=share",
-      "cover": "assets/media-9.png",
-      "images": [],
+      "cover": "assets/media-83.jpg",
+      "images": [
+        {
+          "src": "assets/media-84.jpg",
+          "caption": "nykaa-thumbnail"
+        },
+        {
+          "src": "assets/media-85.jpg",
+          "caption": "shot_01"
+        },
+        {
+          "src": "assets/media-86.jpg",
+          "caption": "shot_02"
+        },
+        {
+          "src": "assets/media-87.jpg",
+          "caption": "shot_03"
+        },
+        {
+          "src": "assets/media-88.jpg",
+          "caption": "shot_04"
+        },
+        {
+          "src": "assets/media-89.jpg",
+          "caption": "shot_05"
+        },
+        {
+          "src": "assets/media-90.jpg",
+          "caption": "shot_06"
+        },
+        {
+          "src": "assets/media-91.jpg",
+          "caption": "shot_07"
+        },
+        {
+          "src": "assets/media-92.jpg",
+          "caption": "shot_08"
+        },
+        {
+          "src": "assets/media-93.jpg",
+          "caption": "shot_09B New Name"
+        },
+        {
+          "src": "assets/media-94.jpg",
+          "caption": "shot_09C"
+        },
+        {
+          "src": "assets/media-95.jpg",
+          "caption": "shot_10"
+        },
+        {
+          "src": "assets/media-96.jpg",
+          "caption": "shot_12"
+        },
+        {
+          "src": "assets/media-97.jpg",
+          "caption": "shot_13_new"
+        },
+        {
+          "src": "assets/media-98.jpg",
+          "caption": "shot_15"
+        }
+      ],
       "audio": [
         {
-          "src": "assets/media-10.mp3",
+          "src": "assets/media-99.mp3",
           "title": "Project 1 model music"
         }
       ],
@@ -108,11 +469,92 @@
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
       "role": "Concept · Script · AI production · Edit · Original score",
       "youtube": "https://youtu.be/WgDHC2LZpzc",
-      "cover": "assets/media-11.png",
-      "images": [],
+      "cover": "assets/media-100.jpg",
+      "images": [
+        {
+          "src": "assets/media-101.jpg",
+          "caption": "1"
+        },
+        {
+          "src": "assets/media-102.jpg",
+          "caption": "2"
+        },
+        {
+          "src": "assets/media-103.jpg",
+          "caption": "3"
+        },
+        {
+          "src": "assets/media-104.jpg",
+          "caption": "4.1"
+        },
+        {
+          "src": "assets/media-105.jpg",
+          "caption": "5"
+        },
+        {
+          "src": "assets/media-106.jpg",
+          "caption": "6"
+        },
+        {
+          "src": "assets/media-107.jpg",
+          "caption": "7"
+        },
+        {
+          "src": "assets/media-108.jpg",
+          "caption": "8 new"
+        },
+        {
+          "src": "assets/media-109.jpg",
+          "caption": "9"
+        },
+        {
+          "src": "assets/media-110.jpg",
+          "caption": "10 new"
+        },
+        {
+          "src": "assets/media-111.jpg",
+          "caption": "11 new"
+        },
+        {
+          "src": "assets/media-112.jpg",
+          "caption": "12 flyover"
+        },
+        {
+          "src": "assets/media-113.jpg",
+          "caption": "12.3"
+        },
+        {
+          "src": "assets/media-114.jpg",
+          "caption": "12.4"
+        },
+        {
+          "src": "assets/media-115.jpg",
+          "caption": "14 volume"
+        },
+        {
+          "src": "assets/media-116.jpg",
+          "caption": "14"
+        },
+        {
+          "src": "assets/media-117.jpg",
+          "caption": "15"
+        },
+        {
+          "src": "assets/media-118.jpg",
+          "caption": "city drift"
+        },
+        {
+          "src": "assets/media-119.jpg",
+          "caption": "planning"
+        },
+        {
+          "src": "assets/media-120.jpg",
+          "caption": "tunnel new"
+        }
+      ],
       "audio": [
         {
-          "src": "assets/media-12.mp3",
+          "src": "assets/media-121.mp3",
           "title": "Open the World new"
         }
       ],
@@ -126,11 +568,76 @@
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
       "role": "Concept · Script · AI production · Edit · Original score",
       "youtube": "https://youtu.be/OrTiEROph48",
-      "cover": "assets/media-13.png",
-      "images": [],
+      "cover": "assets/media-122.jpg",
+      "images": [
+        {
+          "src": "assets/media-123.jpg",
+          "caption": "1"
+        },
+        {
+          "src": "assets/media-124.jpg",
+          "caption": "2.0"
+        },
+        {
+          "src": "assets/media-125.jpg",
+          "caption": "2"
+        },
+        {
+          "src": "assets/media-126.jpg",
+          "caption": "3"
+        },
+        {
+          "src": "assets/media-127.jpg",
+          "caption": "5"
+        },
+        {
+          "src": "assets/media-128.jpg",
+          "caption": "6"
+        },
+        {
+          "src": "assets/media-129.jpg",
+          "caption": "7"
+        },
+        {
+          "src": "assets/media-130.jpg",
+          "caption": "8 new"
+        },
+        {
+          "src": "assets/media-131.jpg",
+          "caption": "9"
+        },
+        {
+          "src": "assets/media-132.jpg",
+          "caption": "10 edit"
+        },
+        {
+          "src": "assets/media-133.jpg",
+          "caption": "11"
+        },
+        {
+          "src": "assets/media-134.jpg",
+          "caption": "12"
+        },
+        {
+          "src": "assets/media-135.jpg",
+          "caption": "13"
+        },
+        {
+          "src": "assets/media-136.jpg",
+          "caption": "14"
+        },
+        {
+          "src": "assets/media-137.jpg",
+          "caption": "15"
+        },
+        {
+          "src": "assets/media-138.jpg",
+          "caption": "16 new"
+        }
+      ],
       "audio": [
         {
-          "src": "assets/media-14.mp3",
+          "src": "assets/media-139.mp3",
           "title": "Jimny new"
         }
       ],
