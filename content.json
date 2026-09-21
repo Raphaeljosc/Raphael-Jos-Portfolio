@@ -2,12 +2,12 @@
   "version": 1,
   "profile": {
     "name": "Raphael Jos",
-    "role": "AI-native creative producer",
-    "email": "",
+    "role": "AI Creative Producer",
+    "email": "raphaeljoschungath@gmail.com",
     "youtube": "https://www.youtube.com/@raphaeljos",
-    "summary": "I take brand films, music videos, and sonic identities from concept to final master \u2014 writing, generating, editing, and scoring every stage in a single generative pipeline.",
-    "bio": "Currently producing AI-generated brand content at India Today Group\u2019s AI Department. My practice brings together 20+ image, video, and music generation models with a foundation in editing, compositing, and sound design.",
-    "languages": "English \u00b7 Malayalam \u00b7 Hindi \u00b7 Tamil"
+    "summary": "I create brand films, music videos, and sonic identities from concept to final master — writing, generating, editing, and scoring every stage in a single generative pipeline.",
+    "bio": "Currently producing AI-generated brand content at India Today Group’s AI Department. My practice brings together 20+ image, video, and music generation models with a foundation in editing, compositing, and sound design.",
+    "languages": "English · Malayalam · Hindi · Tamil"
   },
   "projects": [
     {
@@ -16,11 +16,16 @@
       "category": "Automotive",
       "type": "Independent concept campaign",
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
-      "role": "Concept \u00b7 Script \u00b7 AI production \u00b7 Edit \u00b7 Original score",
-      "youtube": "",
-      "cover": "",
+      "role": "Concept · Script · AI production · Edit · Original score",
+      "youtube": "https://youtu.be/DGziOImxjcQ",
+      "cover": "assets/media-1.png",
       "images": [],
-      "audio": [],
+      "audio": [
+        {
+          "src": "assets/media-2.mp3",
+          "title": "BGM 2"
+        }
+      ],
       "color": "#b7dd78"
     },
     {
@@ -29,11 +34,16 @@
       "category": "Beauty & fashion",
       "type": "Independent concept campaign",
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
-      "role": "Concept \u00b7 Script \u00b7 AI production \u00b7 Edit \u00b7 Original score",
-      "youtube": "",
-      "cover": "",
+      "role": "Concept · Script · AI production · Edit · Original score",
+      "youtube": "https://youtu.be/Rd9aZBL9YSE",
+      "cover": "assets/media-3.png",
       "images": [],
-      "audio": [],
+      "audio": [
+        {
+          "src": "assets/media-4.wav",
+          "title": "Skin Secret"
+        }
+      ],
       "color": "#b49ce2"
     },
     {
@@ -42,11 +52,16 @@
       "category": "Fintech",
       "type": "Independent concept campaign",
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
-      "role": "Concept \u00b7 Script \u00b7 AI production \u00b7 Edit \u00b7 Original score",
-      "youtube": "",
-      "cover": "",
+      "role": "Concept · Script · AI production · Edit · Original score",
+      "youtube": "https://youtu.be/YBAK9jPf8vY",
+      "cover": "assets/media-5.png",
       "images": [],
-      "audio": [],
+      "audio": [
+        {
+          "src": "assets/media-6.mp3",
+          "title": "PhonePe ad BGM"
+        }
+      ],
       "color": "#abaff5"
     },
     {
@@ -55,11 +70,16 @@
       "category": "Sport & lifestyle",
       "type": "Independent concept campaign",
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
-      "role": "Concept \u00b7 Script \u00b7 AI production \u00b7 Edit \u00b7 Original score",
-      "youtube": "",
-      "cover": "",
+      "role": "Concept · Script · AI production · Edit · Original score",
+      "youtube": "https://youtu.be/5gQwNXwuYq4",
+      "cover": "assets/media-7.png",
       "images": [],
-      "audio": [],
+      "audio": [
+        {
+          "src": "assets/media-8.mp3",
+          "title": "2"
+        }
+      ],
       "color": "#e6885f"
     },
     {
@@ -68,11 +88,16 @@
       "category": "Beauty & fashion",
       "type": "Independent concept campaign",
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
-      "role": "Concept \u00b7 Script \u00b7 AI production \u00b7 Edit \u00b7 Original score",
-      "youtube": "",
-      "cover": "",
+      "role": "Concept · Script · AI production · Edit · Original score",
+      "youtube": "https://youtube.com/shorts/Lmd-J2jyZsc?feature=share",
+      "cover": "assets/media-9.png",
       "images": [],
-      "audio": [],
+      "audio": [
+        {
+          "src": "assets/media-10.mp3",
+          "title": "Project 1 model music"
+        }
+      ],
       "color": "#e5a0ad"
     },
     {
@@ -81,11 +106,16 @@
       "category": "Automotive",
       "type": "Independent concept campaign",
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
-      "role": "Concept \u00b7 Script \u00b7 AI production \u00b7 Edit \u00b7 Original score",
-      "youtube": "",
-      "cover": "",
+      "role": "Concept · Script · AI production · Edit · Original score",
+      "youtube": "https://youtu.be/WgDHC2LZpzc",
+      "cover": "assets/media-11.png",
       "images": [],
-      "audio": [],
+      "audio": [
+        {
+          "src": "assets/media-12.mp3",
+          "title": "Open the World new"
+        }
+      ],
       "color": "#82babb"
     },
     {
@@ -94,12 +124,30 @@
       "category": "Automotive",
       "type": "Independent concept campaign",
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
-      "role": "Concept \u00b7 Script \u00b7 AI production \u00b7 Edit \u00b7 Original score",
+      "role": "Concept · Script · AI production · Edit · Original score",
+      "youtube": "https://youtu.be/OrTiEROph48",
+      "cover": "assets/media-13.png",
+      "images": [],
+      "audio": [
+        {
+          "src": "assets/media-14.mp3",
+          "title": "Jimny new"
+        }
+      ],
+      "color": "#c3bb94"
+    },
+    {
+      "id": "project-48b0255a-9a5f-4099-8f03-8774caae555e",
+      "title": "",
+      "category": "Brand film",
+      "type": "",
+      "description": "",
+      "role": "",
       "youtube": "",
+      "color": "#c4ef91",
       "cover": "",
       "images": [],
-      "audio": [],
-      "color": "#c3bb94"
+      "audio": []
     }
   ]
 }
