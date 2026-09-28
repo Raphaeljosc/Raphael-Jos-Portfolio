@@ -417,9 +417,75 @@
     },
     {
       "id": "project-48b0255a-9a5f-4099-8f03-8774caae555e",
+      "title": "Ajo Akhono | 2025",
+      "category": "Music Video",
+      "type": "Independent",
+      "description": "The first project of mine assigned by my manager to learn storyboarding",
+      "role": "I Produced the Visuals of this music video from scratch. I translated the lyrics into English and then created the storyboard.",
+      "youtube": "https://youtu.be/iJ4GS4UHiSg",
+      "color": "#c4ef91",
+      "cover": "assets/media-83.jpg",
+      "images": [
+        {
+          "src": "assets/media-84.jpg",
+          "caption": "2 Gemini_Generated_Image_txfqd3txfqd3txfq"
+        },
+        {
+          "src": "assets/media-85.jpg",
+          "caption": "Firefly_Gemini Flash_the shirt is not tucked in. preserve everything including the lighting exactly the sa 103297"
+        },
+        {
+          "src": "assets/media-83.jpg",
+          "caption": "Gemini_Generated_Image_8vo6eh8vo6eh8vo6"
+        },
+        {
+          "src": "assets/media-86.jpg",
+          "caption": "Gemini_Generated_Image_cofy31cofy31cofy"
+        },
+        {
+          "src": "assets/media-87.jpg",
+          "caption": "Gemini_Generated_Image_cst4xpcst4xpcst4"
+        },
+        {
+          "src": "assets/media-88.jpg",
+          "caption": "Gemini_Generated_Image_e98wwle98wwle98w"
+        },
+        {
+          "src": "assets/media-89.jpg",
+          "caption": "Gemini_Generated_Image_kj00cekj00cekj00"
+        },
+        {
+          "src": "assets/media-90.jpg",
+          "caption": "Gemini_Generated_Image_ody8bxody8bxody8"
+        },
+        {
+          "src": "assets/media-91.jpg",
+          "caption": "Gemini_Generated_Image_p0au3vp0au3vp0au"
+        },
+        {
+          "src": "assets/media-92.jpg",
+          "caption": "Gemini_Generated_Image_p1sq89p1sq89p1sq"
+        },
+        {
+          "src": "assets/media-93.jpg",
+          "caption": "Gemini_Generated_Image_pn2cadpn2cadpn2c"
+        },
+        {
+          "src": "assets/media-94.jpg",
+          "caption": "Gemini_Generated_Image_tem21ktem21ktem2"
+        },
+        {
+          "src": "assets/media-95.jpg",
+          "caption": "Gemini_Generated_Image_vkb1ebvkb1ebvkb1"
+        }
+      ],
+      "audio": []
+    },
+    {
+      "id": "project-d4d0adea-3aba-4181-b94b-f62988e323a3",
       "title": "",
       "category": "Brand film",
-      "type": "",
+      "type": "Independent concept campaign",
       "description": "",
       "role": "",
       "youtube": "",
