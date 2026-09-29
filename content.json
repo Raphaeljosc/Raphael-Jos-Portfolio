@@ -493,6 +493,36 @@
       "cover": "",
       "images": [],
       "audio": []
+    },
+    {
+      "id": "project-38e1fec4-bf54-4b40-9d1c-1debd523f126",
+      "title": "A Road Without Name",
+      "category": "AI Generated Music",
+      "type": "Independent Music Video",
+      "description": "It was an experiment to work on AI Generated Music. I created a rough Idea in my mind and produced the lyrics using claude. I mentioned that I needed a style that matches the lyrics of Eagles and the American bands. I tried the same influence of Eagles in the orchestration too.",
+      "role": "Music Production from Scratch - Lyrics, Music Generation, Editing and Final Production",
+      "youtube": "https://youtu.be/FkfprNWksuY",
+      "color": "#c4ef91",
+      "cover": "assets/media-96.png",
+      "images": [
+        {
+          "src": "assets/media-97.jpg",
+          "caption": "1 Suno prompt"
+        },
+        {
+          "src": "assets/media-98.jpg",
+          "caption": "2 Pre Edit Stems"
+        },
+        {
+          "src": "assets/media-99.jpg",
+          "caption": "3 Mixing"
+        },
+        {
+          "src": "assets/media-100.jpg",
+          "caption": "4 Post Edit"
+        }
+      ],
+      "audio": []
     }
   ]
 }
