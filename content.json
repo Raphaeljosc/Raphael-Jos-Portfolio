@@ -192,6 +192,36 @@
       "color": "#abaff5"
     },
     {
+      "id": "project-38e1fec4-bf54-4b40-9d1c-1debd523f126",
+      "title": "A Road Without Name",
+      "category": "AI Generated Music",
+      "type": "Independent Music Video",
+      "description": "It was an experiment to work on AI Generated Music. I created a rough Idea in my mind and produced the lyrics using claude. I mentioned that I needed a style that matches the lyrics of Eagles and the American bands. I tried the same influence of Eagles in the orchestration too.",
+      "role": "Music Production from Scratch - Lyrics, Music Generation, Editing and Final Production",
+      "youtube": "https://youtu.be/FkfprNWksuY",
+      "color": "#c4ef91",
+      "cover": "assets/media-38.png",
+      "images": [
+        {
+          "src": "assets/media-39.jpg",
+          "caption": "1 Suno prompt"
+        },
+        {
+          "src": "assets/media-40.jpg",
+          "caption": "2 Pre Edit Stems"
+        },
+        {
+          "src": "assets/media-41.jpg",
+          "caption": "3 Mixing"
+        },
+        {
+          "src": "assets/media-42.jpg",
+          "caption": "4 Post Edit"
+        }
+      ],
+      "audio": []
+    },
+    {
       "id": "nike",
       "title": "Nike",
       "category": "Sport & lifestyle",
@@ -199,48 +229,48 @@
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
       "role": "Concept · Script · AI production · Edit · Original score",
       "youtube": "https://youtu.be/5gQwNXwuYq4",
-      "cover": "assets/media-38.jpg",
+      "cover": "assets/media-43.jpg",
       "images": [
         {
-          "src": "assets/media-39.jpg",
+          "src": "assets/media-44.jpg",
           "caption": "1"
         },
         {
-          "src": "assets/media-40.jpg",
+          "src": "assets/media-45.jpg",
           "caption": "1j"
         },
         {
-          "src": "assets/media-41.jpg",
+          "src": "assets/media-46.jpg",
           "caption": "2"
         },
         {
-          "src": "assets/media-42.jpg",
+          "src": "assets/media-47.jpg",
           "caption": "2j"
         },
         {
-          "src": "assets/media-43.jpg",
+          "src": "assets/media-48.jpg",
           "caption": "4"
         },
         {
-          "src": "assets/media-44.jpg",
+          "src": "assets/media-49.jpg",
           "caption": "5"
         },
         {
-          "src": "assets/media-45.jpg",
+          "src": "assets/media-50.jpg",
           "caption": "6"
         },
         {
-          "src": "assets/media-46.jpg",
+          "src": "assets/media-51.jpg",
           "caption": "8"
         },
         {
-          "src": "assets/media-47.jpg",
+          "src": "assets/media-52.jpg",
           "caption": "mumbai"
         }
       ],
       "audio": [
         {
-          "src": "assets/media-48.mp3",
+          "src": "assets/media-53.mp3",
           "title": "2"
         }
       ],
@@ -254,52 +284,52 @@
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
       "role": "Concept · Script · AI production · Edit · Original score",
       "youtube": "https://youtube.com/shorts/Lmd-J2jyZsc?feature=share",
-      "cover": "assets/media-49.jpg",
+      "cover": "assets/media-54.jpg",
       "images": [
         {
-          "src": "assets/media-50.jpg",
+          "src": "assets/media-55.jpg",
           "caption": "shot_02"
         },
         {
-          "src": "assets/media-51.jpg",
+          "src": "assets/media-56.jpg",
           "caption": "shot_03"
         },
         {
-          "src": "assets/media-52.jpg",
+          "src": "assets/media-57.jpg",
           "caption": "shot_04"
         },
         {
-          "src": "assets/media-53.jpg",
+          "src": "assets/media-58.jpg",
           "caption": "shot_05"
         },
         {
-          "src": "assets/media-54.jpg",
+          "src": "assets/media-59.jpg",
           "caption": "shot_06"
         },
         {
-          "src": "assets/media-55.jpg",
+          "src": "assets/media-60.jpg",
           "caption": "shot_09B New Name"
         },
         {
-          "src": "assets/media-56.jpg",
+          "src": "assets/media-61.jpg",
           "caption": "shot_09C"
         },
         {
-          "src": "assets/media-57.jpg",
+          "src": "assets/media-62.jpg",
           "caption": "shot_10"
         },
         {
-          "src": "assets/media-58.jpg",
+          "src": "assets/media-63.jpg",
           "caption": "shot_12"
         },
         {
-          "src": "assets/media-59.jpg",
+          "src": "assets/media-64.jpg",
           "caption": "shot_13_new"
         }
       ],
       "audio": [
         {
-          "src": "assets/media-60.mp3",
+          "src": "assets/media-65.mp3",
           "title": "Project 1 model music"
         }
       ],
@@ -313,48 +343,48 @@
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
       "role": "Concept · Script · AI production · Edit · Original score",
       "youtube": "https://youtu.be/WgDHC2LZpzc",
-      "cover": "assets/media-61.jpg",
+      "cover": "assets/media-66.jpg",
       "images": [
         {
-          "src": "assets/media-62.jpg",
+          "src": "assets/media-67.jpg",
           "caption": "3"
         },
         {
-          "src": "assets/media-63.jpg",
+          "src": "assets/media-68.jpg",
           "caption": "5"
         },
         {
-          "src": "assets/media-64.jpg",
+          "src": "assets/media-69.jpg",
           "caption": "9"
         },
         {
-          "src": "assets/media-65.jpg",
+          "src": "assets/media-70.jpg",
           "caption": "12 flyover"
         },
         {
-          "src": "assets/media-66.jpg",
+          "src": "assets/media-71.jpg",
           "caption": "12.3"
         },
         {
-          "src": "assets/media-67.jpg",
+          "src": "assets/media-72.jpg",
           "caption": "14 volume"
         },
         {
-          "src": "assets/media-68.jpg",
+          "src": "assets/media-73.jpg",
           "caption": "14"
         },
         {
-          "src": "assets/media-69.jpg",
+          "src": "assets/media-74.jpg",
           "caption": "15"
         },
         {
-          "src": "assets/media-70.jpg",
+          "src": "assets/media-75.jpg",
           "caption": "tunnel new"
         }
       ],
       "audio": [
         {
-          "src": "assets/media-71.mp3",
+          "src": "assets/media-76.mp3",
           "title": "Open the World new"
         }
       ],
@@ -368,48 +398,48 @@
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
       "role": "Concept · Script · AI production · Edit · Original score",
       "youtube": "https://youtu.be/OrTiEROph48",
-      "cover": "assets/media-72.jpg",
+      "cover": "assets/media-77.jpg",
       "images": [
         {
-          "src": "assets/media-73.jpg",
+          "src": "assets/media-78.jpg",
           "caption": "2"
         },
         {
-          "src": "assets/media-74.jpg",
+          "src": "assets/media-79.jpg",
           "caption": "5"
         },
         {
-          "src": "assets/media-75.jpg",
+          "src": "assets/media-80.jpg",
           "caption": "6"
         },
         {
-          "src": "assets/media-76.jpg",
+          "src": "assets/media-81.jpg",
           "caption": "7"
         },
         {
-          "src": "assets/media-77.jpg",
+          "src": "assets/media-82.jpg",
           "caption": "8 new"
         },
         {
-          "src": "assets/media-78.jpg",
+          "src": "assets/media-83.jpg",
           "caption": "10 edit"
         },
         {
-          "src": "assets/media-79.jpg",
+          "src": "assets/media-84.jpg",
           "caption": "13"
         },
         {
-          "src": "assets/media-80.jpg",
+          "src": "assets/media-85.jpg",
           "caption": "15"
         },
         {
-          "src": "assets/media-81.jpg",
+          "src": "assets/media-86.jpg",
           "caption": "16 new"
         }
       ],
       "audio": [
         {
-          "src": "assets/media-82.mp3",
+          "src": "assets/media-87.mp3",
           "title": "Jimny new"
         }
       ],
@@ -424,89 +454,59 @@
       "role": "I Produced the Visuals of this music video from scratch. I translated the lyrics into English and then created the storyboard.",
       "youtube": "https://youtu.be/iJ4GS4UHiSg",
       "color": "#c4ef91",
-      "cover": "assets/media-83.jpg",
+      "cover": "assets/media-88.jpg",
       "images": [
         {
-          "src": "assets/media-84.jpg",
+          "src": "assets/media-89.jpg",
           "caption": "2 Gemini_Generated_Image_txfqd3txfqd3txfq"
         },
         {
-          "src": "assets/media-85.jpg",
+          "src": "assets/media-90.jpg",
           "caption": "Firefly_Gemini Flash_the shirt is not tucked in. preserve everything including the lighting exactly the sa 103297"
         },
         {
-          "src": "assets/media-83.jpg",
+          "src": "assets/media-88.jpg",
           "caption": "Gemini_Generated_Image_8vo6eh8vo6eh8vo6"
         },
         {
-          "src": "assets/media-86.jpg",
+          "src": "assets/media-91.jpg",
           "caption": "Gemini_Generated_Image_cofy31cofy31cofy"
         },
         {
-          "src": "assets/media-87.jpg",
+          "src": "assets/media-92.jpg",
           "caption": "Gemini_Generated_Image_cst4xpcst4xpcst4"
         },
         {
-          "src": "assets/media-88.jpg",
+          "src": "assets/media-93.jpg",
           "caption": "Gemini_Generated_Image_e98wwle98wwle98w"
         },
         {
-          "src": "assets/media-89.jpg",
+          "src": "assets/media-94.jpg",
           "caption": "Gemini_Generated_Image_kj00cekj00cekj00"
         },
         {
-          "src": "assets/media-90.jpg",
+          "src": "assets/media-95.jpg",
           "caption": "Gemini_Generated_Image_ody8bxody8bxody8"
         },
         {
-          "src": "assets/media-91.jpg",
+          "src": "assets/media-96.jpg",
           "caption": "Gemini_Generated_Image_p0au3vp0au3vp0au"
         },
         {
-          "src": "assets/media-92.jpg",
+          "src": "assets/media-97.jpg",
           "caption": "Gemini_Generated_Image_p1sq89p1sq89p1sq"
         },
         {
-          "src": "assets/media-93.jpg",
+          "src": "assets/media-98.jpg",
           "caption": "Gemini_Generated_Image_pn2cadpn2cadpn2c"
         },
         {
-          "src": "assets/media-94.jpg",
+          "src": "assets/media-99.jpg",
           "caption": "Gemini_Generated_Image_tem21ktem21ktem2"
         },
         {
-          "src": "assets/media-95.jpg",
-          "caption": "Gemini_Generated_Image_vkb1ebvkb1ebvkb1"
-        }
-      ],
-      "audio": []
-    },
-    {
-      "id": "project-38e1fec4-bf54-4b40-9d1c-1debd523f126",
-      "title": "A Road Without Name",
-      "category": "AI Generated Music",
-      "type": "Independent Music Video",
-      "description": "It was an experiment to work on AI Generated Music. I created a rough Idea in my mind and produced the lyrics using claude. I mentioned that I needed a style that matches the lyrics of Eagles and the American bands. I tried the same influence of Eagles in the orchestration too.",
-      "role": "Music Production from Scratch - Lyrics, Music Generation, Editing and Final Production",
-      "youtube": "https://youtu.be/FkfprNWksuY",
-      "color": "#c4ef91",
-      "cover": "assets/media-96.png",
-      "images": [
-        {
-          "src": "assets/media-97.jpg",
-          "caption": "1 Suno prompt"
-        },
-        {
-          "src": "assets/media-98.jpg",
-          "caption": "2 Pre Edit Stems"
-        },
-        {
-          "src": "assets/media-99.jpg",
-          "caption": "3 Mixing"
-        },
-        {
           "src": "assets/media-100.jpg",
-          "caption": "4 Post Edit"
+          "caption": "Gemini_Generated_Image_vkb1ebvkb1ebvkb1"
         }
       ],
       "audio": []
