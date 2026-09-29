@@ -482,19 +482,6 @@
       "audio": []
     },
     {
-      "id": "project-d4d0adea-3aba-4181-b94b-f62988e323a3",
-      "title": "",
-      "category": "Brand film",
-      "type": "Independent concept campaign",
-      "description": "",
-      "role": "",
-      "youtube": "",
-      "color": "#c4ef91",
-      "cover": "",
-      "images": [],
-      "audio": []
-    },
-    {
       "id": "project-38e1fec4-bf54-4b40-9d1c-1debd523f126",
       "title": "A Road Without Name",
       "category": "AI Generated Music",
@@ -522,6 +509,58 @@
           "caption": "4 Post Edit"
         }
       ],
+      "audio": []
+    },
+    {
+      "id": "project-65d7ed68-76ca-4530-b20e-c458a0bff2d5",
+      "title": "Kazhchayay Pithaave",
+      "category": "Christian Devotional Song",
+      "type": "Freelance Gig",
+      "description": "A Christian devotional song sung by Vijay Yesudas",
+      "role": "I assisted the vocal harmony section with a baritone voice",
+      "youtube": "https://youtu.be/wlZTmkctTug?si=0IwlahPVCbKMYLzp",
+      "color": "#c4ef91",
+      "cover": "assets/media-101.jpg",
+      "images": [],
+      "audio": []
+    },
+    {
+      "id": "project-ab7aca7d-9981-4373-a94f-d78e85df02fc",
+      "title": "Nanma Niranja",
+      "category": "Christian Devotional Song",
+      "type": "Freelance Gig",
+      "description": "A christian devotional song by Sujatha Mohan",
+      "role": "I assisted the Vocal harmony section with Baritone voice",
+      "youtube": "https://youtu.be/dJ9-obEe4mQ?si=UKtx3Ykoeep_bwRP",
+      "color": "#c4ef91",
+      "cover": "assets/media-102.jpg",
+      "images": [],
+      "audio": []
+    },
+    {
+      "id": "project-31c5e1f6-6a69-41ea-abbb-312c36300144",
+      "title": "Ruach",
+      "category": "Christian Devotional Song",
+      "type": "Freelance Gig",
+      "description": "A Christian Devotional song sung by Shweta Mohan",
+      "role": "I assisted the vocal harmony section with baritone voice",
+      "youtube": "https://youtu.be/Gbmoh5plx_w?si=HZW1UWGci1bi4bzu",
+      "color": "#c4ef91",
+      "cover": "assets/media-103.jpg",
+      "images": [],
+      "audio": []
+    },
+    {
+      "id": "project-2dc2a854-c21a-4678-bb5e-4d47ace5e719",
+      "title": "Holy Eucharist | Divyakarunyam",
+      "category": "Christian Devotional Song",
+      "type": "Freelance Gig",
+      "description": "A Christian Devotional song sung by Kester",
+      "role": "I assisted the vocal harmony section with Baritone voice",
+      "youtube": "https://youtu.be/O-VP1NEJu_w?si=ntCuTwoVM2EHG5TY",
+      "color": "#c4ef91",
+      "cover": "assets/media-104.jpg",
+      "images": [],
       "audio": []
     }
   ]
