@@ -1,0 +1,28 @@
+PUBLISHING YOUR MIGRATED PORTFOLIO
+
+This folder was built from your supplied portfolio-website copy 2. All 13 projects and their order are preserved.
+1. Upload assets at the GitHub repository root. If uploading inside assets, upload its project subfolders instead. Avoid assets/assets/.
+2. Upload in batches if needed. Commit ALL new project folders first.
+3. Upload editor.js and the new content.json at the repository root LAST. The other website code is unchanged and is included for a complete archive.
+4. Wait for GitHub Pages to finish. Refresh your public portfolio.
+5. Hard-refresh the online editor (Command + Shift + R), Restore backup using the separate portfolio-project-folders-backup.json supplied with this delivery, then Save draft. This replaces older browser drafts with this migrated version.
+6. Future edits: use Download update ZIP. Upload included new assets first, then content.json. Reorder/text-only changes need content.json only.
+
+Do not upload the separate backup JSON; keep it private. Keep your original folder and old numbered files during migration. No deletion is needed.
+Existing older drafts will not automatically refresh from the new content.json: restore the provided backup once as described above.
+This guide is for you and need not be uploaded.
+
+PROJECT FOLDERS:
+Mahindra BE6 -> assets/mahindra-be6/
+Chanel -> assets/chanel/
+PhonePe -> assets/phonepe/
+A Road Without Name -> assets/a-road-without-name/
+Nike -> assets/nike/
+Nykaa -> assets/nykaa/
+Hyundai i10 Nios -> assets/hyundai-i10-nios/
+Suzuki Jimny -> assets/suzuki-jimny/
+Ajo Akhono | 2025 -> assets/ajo-akhono-2025/
+Kazhchayay Pithaave -> assets/kazhchayay-pithaave/
+Nanma Niranja -> assets/nanma-niranja/
+Ruach -> assets/ruach/
+Holy Eucharist | Divyakarunyam -> assets/holy-eucharist-divyakarunyam/

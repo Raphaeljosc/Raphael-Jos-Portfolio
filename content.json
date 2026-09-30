@@ -18,56 +18,57 @@
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
       "role": "Concept · Script · AI production · Edit · Original score",
       "youtube": "https://youtu.be/DGziOImxjcQ",
-      "cover": "assets/media-1.jpg",
+      "cover": "assets/mahindra-be6/f474cb300b1908647bda531fdeb112dd3d3f6956a3547dc85e2af3f150353087.jpg",
       "images": [
         {
-          "src": "assets/media-2.jpg",
+          "src": "assets/mahindra-be6/40862fb62da8f14a477b7550e61c79d879205241b838269f05a6181b1edc4cf7.jpg",
           "caption": "1"
         },
         {
-          "src": "assets/media-3.jpg",
+          "src": "assets/mahindra-be6/7abbdf27ec1fab25fc75aef812de8e372ddaea7e1cc6855d98874594b6caade8.jpg",
           "caption": "4 Bat logo formation"
         },
         {
-          "src": "assets/media-4.jpg",
+          "src": "assets/mahindra-be6/7f94d96b050f88882da0b2c304591e1679bc0b49244c2466e3408e058e28ac4d.jpg",
           "caption": "Car tunnel"
         },
         {
-          "src": "assets/media-5.jpg",
+          "src": "assets/mahindra-be6/910de80ae63edb4673b798b2651db6ce7294a759be7921c52bdc49fb310e7809.jpg",
           "caption": "cliff 1.2"
         },
         {
-          "src": "assets/media-6.jpg",
+          "src": "assets/mahindra-be6/21db455b7686e531ad3fbffffb60c46a088b121d2fbd6467dd68ce42b87c3901.jpg",
           "caption": "cliff front lights of"
         },
         {
-          "src": "assets/media-7.jpg",
+          "src": "assets/mahindra-be6/de28828968efa1bf85ee7fbc9925542091cdc2e2d9fe5945a1db0d96e7a4ecc1.jpg",
           "caption": "cliff rear lights on"
         },
         {
-          "src": "assets/media-8.jpg",
+          "src": "assets/mahindra-be6/34a48bb4e9240a35e0e245bc16e2b1bdd7f61012a0ce1e0b9a5a342f1c826fe8.jpg",
           "caption": "Dystopian road"
         },
         {
-          "src": "assets/media-9.jpg",
+          "src": "assets/mahindra-be6/880144236156c2fe42068e3c13b8ce4c7ed7b0139cc76b05704e73142496d673.jpg",
           "caption": "final batman logo"
         },
         {
-          "src": "assets/media-10.jpg",
+          "src": "assets/mahindra-be6/74f3a675f7285cc082e02ca8f7580a0485ac92618cf8489cd4d6d4e8c75657fe.jpg",
           "caption": "logo front"
         },
         {
-          "src": "assets/media-11.jpg",
+          "src": "assets/mahindra-be6/256cf6da33a0d257528eac7f4f1a3199f13c14ad1ddc2c260af3cba954479041.jpg",
           "caption": "logo rear new"
         }
       ],
       "audio": [
         {
-          "src": "assets/media-12.mp3",
+          "src": "assets/mahindra-be6/957ff3d84018315538f90573bb0dab9134bb2bd9ceabe71312bc119c7dff4dc6.mp3",
           "title": "BGM 2"
         }
       ],
-      "color": "#b7dd78"
+      "color": "#b7dd78",
+      "mediaFolder": "mahindra-be6"
     },
     {
       "id": "chanel",
@@ -77,60 +78,61 @@
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
       "role": "Concept · Script · AI production · Edit · Original score",
       "youtube": "https://youtu.be/Rd9aZBL9YSE",
-      "cover": "assets/media-13.jpg",
+      "cover": "assets/chanel/d18867246e86c146479f08c20977cd2e1ef13a245f0e0c98b7c03938503a0d00.jpg",
       "images": [
         {
-          "src": "assets/media-14.jpg",
+          "src": "assets/chanel/750242ecac689b791954f5d9018c59c5dac083faee30a71fdfb0e06ba1ade30d.jpg",
           "caption": "1"
         },
         {
-          "src": "assets/media-15.jpg",
+          "src": "assets/chanel/9867d5619eef64791a52db5e5da7b98d364d61428fef47fa72dd7f679c91c1cf.jpg",
           "caption": "3"
         },
         {
-          "src": "assets/media-16.jpg",
+          "src": "assets/chanel/a74825fe04845ffa55bdf2e52d83eaaa3ecfed49624223016d3bc7000db383ea.jpg",
           "caption": "4.0"
         },
         {
-          "src": "assets/media-17.jpg",
+          "src": "assets/chanel/f80c6bbdcd169ca62ce0fbb1debd721457289f8473a4bc58be2b770090ecab0a.jpg",
           "caption": "4.1"
         },
         {
-          "src": "assets/media-18.jpg",
+          "src": "assets/chanel/c9b1af962be3c9b033f545242548c1ae609da7659ccec1f1077d3729f8b8b37a.jpg",
           "caption": "5.1"
         },
         {
-          "src": "assets/media-19.jpg",
+          "src": "assets/chanel/5dbb0d3a77c9a2812647d83bab0f0ee9d839171f1cfd1314132302d7a1010255.jpg",
           "caption": "5.2"
         },
         {
-          "src": "assets/media-20.jpg",
+          "src": "assets/chanel/d6efe8e4926091d58daa3e35e1d7845c8382a969aa019788d06816c8d28fcc93.jpg",
           "caption": "6"
         },
         {
-          "src": "assets/media-21.jpg",
+          "src": "assets/chanel/8a752eb83d602fc2df3c6678ecf628ca925f120c6f617b6ddc529b99a6f65bd5.jpg",
           "caption": "8.1"
         },
         {
-          "src": "assets/media-22.jpg",
+          "src": "assets/chanel/b62952944d7650d066055afc6598c935bdf77199267fcd77efb5f7018decbda1.jpg",
           "caption": "9"
         },
         {
-          "src": "assets/media-23.jpg",
+          "src": "assets/chanel/d77ebbd8782bf7c8464c061e6d3243341c5a6b9ff56e709132c7ac47d31a243d.jpg",
           "caption": "10.1"
         },
         {
-          "src": "assets/media-24.jpg",
+          "src": "assets/chanel/f29b54f0bc6dbd02264cb326e5c7961ed8be875cdfeb0394dbcbc6cb1adb11a7.jpg",
           "caption": "10"
         }
       ],
       "audio": [
         {
-          "src": "assets/media-25.wav",
+          "src": "assets/chanel/3b641050aa675f0f50fd016b0e560cf4151f49b5af799ed3194709a15390992c.wav",
           "title": "Skin Secret"
         }
       ],
-      "color": "#b49ce2"
+      "color": "#b49ce2",
+      "mediaFolder": "chanel"
     },
     {
       "id": "phonepe",
@@ -140,56 +142,57 @@
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
       "role": "Concept · Script · AI production · Edit · Original score",
       "youtube": "https://youtu.be/YBAK9jPf8vY",
-      "cover": "assets/media-26.png",
+      "cover": "assets/phonepe/44aca4c68cad9489f987b9de5c7e4d760eb15b19b72eec44c5c6f398fd19e4dd.png",
       "images": [
         {
-          "src": "assets/media-27.jpg",
+          "src": "assets/phonepe/a2e1b89f307cae8b72ed3e5446f313358fc0c7a6dd09097a64595c916ad6eb23.jpg",
           "caption": "1"
         },
         {
-          "src": "assets/media-28.jpg",
+          "src": "assets/phonepe/bac0da54d94b6102885572949c80d90333b3025982b275cc82b024defb086ebf.jpg",
           "caption": "2.1"
         },
         {
-          "src": "assets/media-29.jpg",
+          "src": "assets/phonepe/f29f4c1e6373db43cb679fcbaff55e105367c2458fd6624f47b815f32de6aac1.jpg",
           "caption": "3"
         },
         {
-          "src": "assets/media-30.jpg",
+          "src": "assets/phonepe/285a391dddba2c6db34fe80d3a98a59d9c2ff78a6c36a765b82109407a74c88f.jpg",
           "caption": "4.2.1"
         },
         {
-          "src": "assets/media-31.jpg",
+          "src": "assets/phonepe/4fe2440404d9350e0940c7bbe126626a0bf201a1ef1f46e5ca53426e8907ceb1.jpg",
           "caption": "7.2"
         },
         {
-          "src": "assets/media-32.jpg",
+          "src": "assets/phonepe/7a8e2236a167c5ce31fcfd94a45bca86fa977f636a8b449f914e5cfd7d74271c.jpg",
           "caption": "8.1"
         },
         {
-          "src": "assets/media-33.jpg",
+          "src": "assets/phonepe/dac85364b5dc40d39b3a0269ee61c4f7bd63b1be9f9670301d4fbba3309fbce7.jpg",
           "caption": "9.0"
         },
         {
-          "src": "assets/media-34.jpg",
+          "src": "assets/phonepe/2e198fcc3ae874ccd996d5a40157ab8f3ce4ea0ba9e7d5b39cf3a14474193538.jpg",
           "caption": "10.1"
         },
         {
-          "src": "assets/media-35.jpg",
+          "src": "assets/phonepe/efe08008bc4507105091023c99219d32e10ee8a056b1124c89084d59ba8ec867.jpg",
           "caption": "12.2"
         },
         {
-          "src": "assets/media-36.jpg",
+          "src": "assets/phonepe/0b5336460425517864fbda7baa002fb35a4bea99c1f69100601211688d578134.jpg",
           "caption": "13.1"
         }
       ],
       "audio": [
         {
-          "src": "assets/media-37.mp3",
+          "src": "assets/phonepe/833dfefa611c0c33ec67c77f079f49254973debd57ab486521abb2cde92a498a.mp3",
           "title": "PhonePe ad BGM"
         }
       ],
-      "color": "#abaff5"
+      "color": "#abaff5",
+      "mediaFolder": "phonepe"
     },
     {
       "id": "project-38e1fec4-bf54-4b40-9d1c-1debd523f126",
@@ -200,26 +203,27 @@
       "role": "Music Production from Scratch - Lyrics, Music Generation, Editing and Final Production",
       "youtube": "https://youtu.be/FkfprNWksuY",
       "color": "#c4ef91",
-      "cover": "assets/media-38.png",
+      "cover": "assets/a-road-without-name/07de3bb6d6d08870eda0ff4b5ca6692483ce2b57499859df0599c107215d8b42.png",
       "images": [
         {
-          "src": "assets/media-39.jpg",
+          "src": "assets/a-road-without-name/e66f641b421be6c7d60226557971dc9888c3681c58259e55704ccbbbbadcf8a3.jpg",
           "caption": "1 Suno prompt"
         },
         {
-          "src": "assets/media-40.jpg",
+          "src": "assets/a-road-without-name/63c9b0d6de0667ad65bbc711179d724eb089138f5d2b1f16219b4816494057c9.jpg",
           "caption": "2 Pre Edit Stems"
         },
         {
-          "src": "assets/media-41.jpg",
+          "src": "assets/a-road-without-name/ac3bcd932b870e13b1d182d09d068cf0bd59b85f4d4c86796d98ef87e0ee3276.jpg",
           "caption": "3 Mixing"
         },
         {
-          "src": "assets/media-42.jpg",
+          "src": "assets/a-road-without-name/0e5d32de9b693a935bccc92fbb52ced713fb306339f6af7570544fcaa3d40cb9.jpg",
           "caption": "4 Post Edit"
         }
       ],
-      "audio": []
+      "audio": [],
+      "mediaFolder": "a-road-without-name"
     },
     {
       "id": "nike",
@@ -229,52 +233,53 @@
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
       "role": "Concept · Script · AI production · Edit · Original score",
       "youtube": "https://youtu.be/5gQwNXwuYq4",
-      "cover": "assets/media-43.jpg",
+      "cover": "assets/nike/76aa96e7ad49a0dbfce64f8bfab2f791df686aa7a9ac02444407b162b9983129.jpg",
       "images": [
         {
-          "src": "assets/media-44.jpg",
+          "src": "assets/nike/f00c4727deddd3f730f113e48fff363758289a9b4e59f9f3638166a0cdf112ea.jpg",
           "caption": "1"
         },
         {
-          "src": "assets/media-45.jpg",
+          "src": "assets/nike/7bae377d5fcaec9ae7f7fd68c940d512cc784c2efc4000c5b7d5b1bbe148c8cb.jpg",
           "caption": "1j"
         },
         {
-          "src": "assets/media-46.jpg",
+          "src": "assets/nike/b27bd09c4b919e265d65f8ea6de1dd373bf4b56fb088e947fe7a3c9860156303.jpg",
           "caption": "2"
         },
         {
-          "src": "assets/media-47.jpg",
+          "src": "assets/nike/efa9bb35c8d1dac6775664db7c42d2531d5e88c46a4ba87611cf350f12a114a1.jpg",
           "caption": "2j"
         },
         {
-          "src": "assets/media-48.jpg",
+          "src": "assets/nike/e5741a8f89dd6d9b1b6b2fd38046b80bb6fa40fad2d566032749923d47318a01.jpg",
           "caption": "4"
         },
         {
-          "src": "assets/media-49.jpg",
+          "src": "assets/nike/55ef26304bb5f0f8ab3795ae65046fa6f67b3ca30988890e54242ca70a0b1721.jpg",
           "caption": "5"
         },
         {
-          "src": "assets/media-50.jpg",
+          "src": "assets/nike/4cdddd14bbd763b0becc975fea5d88d238198f580b578b330bd4418c3b2aa82d.jpg",
           "caption": "6"
         },
         {
-          "src": "assets/media-51.jpg",
+          "src": "assets/nike/86d6196879f6553f958dbb7d230cb6cba9460135890590ff00caed6bed086171.jpg",
           "caption": "8"
         },
         {
-          "src": "assets/media-52.jpg",
+          "src": "assets/nike/6730e10f2497641b5be06d5a8a159221db37c473a3c17510d60351e352a617b5.jpg",
           "caption": "mumbai"
         }
       ],
       "audio": [
         {
-          "src": "assets/media-53.mp3",
+          "src": "assets/nike/a8559881af3374a8f0c575f9a63bd0d11fe69b693a6d93944dcdc272a6d842c3.mp3",
           "title": "2"
         }
       ],
-      "color": "#e6885f"
+      "color": "#e6885f",
+      "mediaFolder": "nike"
     },
     {
       "id": "nykaa",
@@ -284,56 +289,57 @@
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
       "role": "Concept · Script · AI production · Edit · Original score",
       "youtube": "https://youtube.com/shorts/Lmd-J2jyZsc?feature=share",
-      "cover": "assets/media-54.jpg",
+      "cover": "assets/nykaa/33d14c1bb0249f3bfae4f4b275f73e7415ae82e22577d3e007ba08afd3fc4958.jpg",
       "images": [
         {
-          "src": "assets/media-55.jpg",
+          "src": "assets/nykaa/218589d1b85d396ab5405ed5fb911a5aaa3547369127a999bacf4aeee9955937.jpg",
           "caption": "shot_02"
         },
         {
-          "src": "assets/media-56.jpg",
+          "src": "assets/nykaa/9124f2748e055dd5ccc7288e8553833c8f72fa1cdee00bf0b708b530e6121562.jpg",
           "caption": "shot_03"
         },
         {
-          "src": "assets/media-57.jpg",
+          "src": "assets/nykaa/0b7c67a09b705d1a9ce11bc7304a0ab03b906c0015d58099dae3b8d31605d698.jpg",
           "caption": "shot_04"
         },
         {
-          "src": "assets/media-58.jpg",
+          "src": "assets/nykaa/102ba32fc0f24b632c2179d79116d7a67e0bdff5bea31c1e1edec94e4c2334e9.jpg",
           "caption": "shot_05"
         },
         {
-          "src": "assets/media-59.jpg",
+          "src": "assets/nykaa/977996af388a312fe96780548757f5008308c1b81bea4947286a3629457422b8.jpg",
           "caption": "shot_06"
         },
         {
-          "src": "assets/media-60.jpg",
+          "src": "assets/nykaa/03544710f217018bde71c9b6db2008bb0bce565fb7e6386abb9afb2eb029c728.jpg",
           "caption": "shot_09B New Name"
         },
         {
-          "src": "assets/media-61.jpg",
+          "src": "assets/nykaa/f3960dbdc306addba4c4c082adf37dd312edf188062f628e1c58b9667b713167.jpg",
           "caption": "shot_09C"
         },
         {
-          "src": "assets/media-62.jpg",
+          "src": "assets/nykaa/64c027faaa59672f652ca9201aa1ba6cec4904099aa44a6f182063df8f8495cf.jpg",
           "caption": "shot_10"
         },
         {
-          "src": "assets/media-63.jpg",
+          "src": "assets/nykaa/d37e4557a0de67017b95c92399aebc4eb041b33d7e4693a6adf9ef431b486793.jpg",
           "caption": "shot_12"
         },
         {
-          "src": "assets/media-64.jpg",
+          "src": "assets/nykaa/df6a47772de909d8e4a4936547457ece94721a4fb730046932e9e3f3575abe66.jpg",
           "caption": "shot_13_new"
         }
       ],
       "audio": [
         {
-          "src": "assets/media-65.mp3",
+          "src": "assets/nykaa/d9929ce132d53cac77a864f02d071802268cd864c4b41de063fabcd749f4be9c.mp3",
           "title": "Project 1 model music"
         }
       ],
-      "color": "#e5a0ad"
+      "color": "#e5a0ad",
+      "mediaFolder": "nykaa"
     },
     {
       "id": "hyundai-i10-nios",
@@ -343,52 +349,53 @@
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
       "role": "Concept · Script · AI production · Edit · Original score",
       "youtube": "https://youtu.be/WgDHC2LZpzc",
-      "cover": "assets/media-66.jpg",
+      "cover": "assets/hyundai-i10-nios/5551d1f3493f053b1840c1ee6a05e2317228b88c7a70aead9231f9988036719c.jpg",
       "images": [
         {
-          "src": "assets/media-67.jpg",
+          "src": "assets/hyundai-i10-nios/80e3608f81fffa01abde1fd7adea72bbd2ce7384d9db64aca5ff9aeaea776083.jpg",
           "caption": "3"
         },
         {
-          "src": "assets/media-68.jpg",
+          "src": "assets/hyundai-i10-nios/223f1f0c794b806cd60ceefa3a12a1a52560a9acba6aa4bb892ef6a7c197290c.jpg",
           "caption": "5"
         },
         {
-          "src": "assets/media-69.jpg",
+          "src": "assets/hyundai-i10-nios/4854ca3653b8ad8bacac29a873b5c216ae4907b4cc9ad4e7efc8b0dd8b3cc5af.jpg",
           "caption": "9"
         },
         {
-          "src": "assets/media-70.jpg",
+          "src": "assets/hyundai-i10-nios/57b86d5e7d3ae40f0f29a778a1e9884f361814cc2fcc4739ebb0e399fff98522.jpg",
           "caption": "12 flyover"
         },
         {
-          "src": "assets/media-71.jpg",
+          "src": "assets/hyundai-i10-nios/966f9487d82a69e02362b501a6c58a8897fd6add84e41e70b0a7996001285d95.jpg",
           "caption": "12.3"
         },
         {
-          "src": "assets/media-72.jpg",
+          "src": "assets/hyundai-i10-nios/e2b1b1662df1a5a472a788e255bdaeb675447092150224521fe7471d4a0fe658.jpg",
           "caption": "14 volume"
         },
         {
-          "src": "assets/media-73.jpg",
+          "src": "assets/hyundai-i10-nios/13a3e884e3a42441e6523ca367af336d83c4060a9813f0d3d1479c1486b03626.jpg",
           "caption": "14"
         },
         {
-          "src": "assets/media-74.jpg",
+          "src": "assets/hyundai-i10-nios/62d1dd2fa71ca586aa96cce4f9455fe8bf798366a3d0418ca24fb3fae488feb3.jpg",
           "caption": "15"
         },
         {
-          "src": "assets/media-75.jpg",
+          "src": "assets/hyundai-i10-nios/6a89fbb31f748c322736c0e17130f5c9426b48c9a9fef62599462b69fb1813f8.jpg",
           "caption": "tunnel new"
         }
       ],
       "audio": [
         {
-          "src": "assets/media-76.mp3",
+          "src": "assets/hyundai-i10-nios/bc9057c8143c66611b4661eb387eb2b4d762da7bb6108b09e115b72b4cdcb7ee.mp3",
           "title": "Open the World new"
         }
       ],
-      "color": "#82babb"
+      "color": "#82babb",
+      "mediaFolder": "hyundai-i10-nios"
     },
     {
       "id": "suzuki-jimny",
@@ -398,118 +405,120 @@
       "description": "A self-initiated AI brand film exploring a complete creative pipeline: script, AI-generated visuals, cross-frame consistency, motion editing, and an original AI-composed score.",
       "role": "Concept · Script · AI production · Edit · Original score",
       "youtube": "https://youtu.be/OrTiEROph48",
-      "cover": "assets/media-77.jpg",
+      "cover": "assets/suzuki-jimny/5e3cd6f608b3af51c24719d2f78deef81d02079f85f26419408860983568b25e.jpg",
       "images": [
         {
-          "src": "assets/media-78.jpg",
+          "src": "assets/suzuki-jimny/d9768ada52b42be1b9d4a561bc09c97e05eaa2ac53d100557eafcbc75890d541.jpg",
           "caption": "2"
         },
         {
-          "src": "assets/media-79.jpg",
+          "src": "assets/suzuki-jimny/47c1a741939330518d5b7ab22dfe4610ef07c3232ad8a2c9023e67922dd185ca.jpg",
           "caption": "5"
         },
         {
-          "src": "assets/media-80.jpg",
+          "src": "assets/suzuki-jimny/748eb5e9c21faea954dfd9b53d1e9273c960fae4dcb3aba7b97cb5e94c193c31.jpg",
           "caption": "6"
         },
         {
-          "src": "assets/media-81.jpg",
+          "src": "assets/suzuki-jimny/a15055ce01d66bbc4f54c785d9587d8048358914b2e5a92383f0c52548126b46.jpg",
           "caption": "7"
         },
         {
-          "src": "assets/media-82.jpg",
+          "src": "assets/suzuki-jimny/f36c089a54582b4234434cedc71221db0a9261f705a0e8488099d3fbef959a7e.jpg",
           "caption": "8 new"
         },
         {
-          "src": "assets/media-83.jpg",
+          "src": "assets/suzuki-jimny/b4c90c4f9d1c1dc8f82a3e463b38def7ebd30f62d9c3cafb1dded7e0b5ce6b19.jpg",
           "caption": "10 edit"
         },
         {
-          "src": "assets/media-84.jpg",
+          "src": "assets/suzuki-jimny/4f366939be96214461ebb962e277f7b9295c632b8fbf2a327911e371287d7f24.jpg",
           "caption": "13"
         },
         {
-          "src": "assets/media-85.jpg",
+          "src": "assets/suzuki-jimny/a050b4d5e921feef40327f8ac7c2d55feda3b1a7ce5770a21958e4d9293e5c54.jpg",
           "caption": "15"
         },
         {
-          "src": "assets/media-86.jpg",
+          "src": "assets/suzuki-jimny/1fdfead78a502d00dd6716a807f014b5bd969fdcb8d78dd353cb9a64503ba4bf.jpg",
           "caption": "16 new"
         }
       ],
       "audio": [
         {
-          "src": "assets/media-87.mp3",
+          "src": "assets/suzuki-jimny/6a0846685b58f95d1aac09138df2eec717cc91987a7534ee803c42ce96c97bd5.mp3",
           "title": "Jimny new"
         }
       ],
-      "color": "#c3bb94"
+      "color": "#c3bb94",
+      "mediaFolder": "suzuki-jimny"
     },
     {
       "id": "project-48b0255a-9a5f-4099-8f03-8774caae555e",
       "title": "Ajo Akhono | 2025",
       "category": "Music Video",
-      "type": "Personal Assignment by Manager",
+      "type": "Independent",
       "description": "The first project of mine assigned by my manager to learn storyboarding",
       "role": "I Produced the Visuals of this music video from scratch. I translated the lyrics into English and then created the storyboard.",
       "youtube": "https://youtu.be/iJ4GS4UHiSg",
       "color": "#c4ef91",
-      "cover": "assets/media-88.jpg",
+      "cover": "assets/ajo-akhono-2025/967f92aa60781768ada3c6b1b5b415a56fb5a7c675dd3f69e10c3269806482ed.jpg",
       "images": [
         {
-          "src": "assets/media-89.jpg",
+          "src": "assets/ajo-akhono-2025/bf23809c6820d1fa89d95137285a24a3afcf2772cae67a13803372e1df74e440.jpg",
           "caption": "2 Gemini_Generated_Image_txfqd3txfqd3txfq"
         },
         {
-          "src": "assets/media-90.jpg",
+          "src": "assets/ajo-akhono-2025/4bd4118680eb0a59f2120edeab61045a47860be470db327587fa1919a0e4cb0e.jpg",
           "caption": "Firefly_Gemini Flash_the shirt is not tucked in. preserve everything including the lighting exactly the sa 103297"
         },
         {
-          "src": "assets/media-88.jpg",
+          "src": "assets/ajo-akhono-2025/967f92aa60781768ada3c6b1b5b415a56fb5a7c675dd3f69e10c3269806482ed.jpg",
           "caption": "Gemini_Generated_Image_8vo6eh8vo6eh8vo6"
         },
         {
-          "src": "assets/media-91.jpg",
+          "src": "assets/ajo-akhono-2025/9d67899abd79fcb9e3f4e4ffd605e49ea65e9954427354fcd697efa551e1e0c4.jpg",
           "caption": "Gemini_Generated_Image_cofy31cofy31cofy"
         },
         {
-          "src": "assets/media-92.jpg",
+          "src": "assets/ajo-akhono-2025/001eb164a0edf28e62b60cdcf96a8c8ba376edfc9fd84e17d11dd156bdb682f1.jpg",
           "caption": "Gemini_Generated_Image_cst4xpcst4xpcst4"
         },
         {
-          "src": "assets/media-93.jpg",
+          "src": "assets/ajo-akhono-2025/19ae9d171a31f60cd766415ea82ccc6d3d9e37e47d50af05ea931bdd87217407.jpg",
           "caption": "Gemini_Generated_Image_e98wwle98wwle98w"
         },
         {
-          "src": "assets/media-94.jpg",
+          "src": "assets/ajo-akhono-2025/e99b8b3b1f761e80bfc459636a37a00b766c5965ec1ae97452beb069a8e47173.jpg",
           "caption": "Gemini_Generated_Image_kj00cekj00cekj00"
         },
         {
-          "src": "assets/media-95.jpg",
+          "src": "assets/ajo-akhono-2025/b5b179a0215a4c684f093e3b8f70e6a28b0219e34b539dc8268af53c76bc45e5.jpg",
           "caption": "Gemini_Generated_Image_ody8bxody8bxody8"
         },
         {
-          "src": "assets/media-96.jpg",
+          "src": "assets/ajo-akhono-2025/577636841964226e9f6e75807d58aa0e105cd7a611cb1b0153f395ce8f5b2881.jpg",
           "caption": "Gemini_Generated_Image_p0au3vp0au3vp0au"
         },
         {
-          "src": "assets/media-97.jpg",
+          "src": "assets/ajo-akhono-2025/e9d282720b9c2f80e812124dbeeb6643f97ab66042dc98bc55ee5f6cf0ac8629.jpg",
           "caption": "Gemini_Generated_Image_p1sq89p1sq89p1sq"
         },
         {
-          "src": "assets/media-98.jpg",
+          "src": "assets/ajo-akhono-2025/72522be19b0447357424369fe0dffbe0f39b69642078b7cdf2544776a46bcbcd.jpg",
           "caption": "Gemini_Generated_Image_pn2cadpn2cadpn2c"
         },
         {
-          "src": "assets/media-99.jpg",
+          "src": "assets/ajo-akhono-2025/d396635ead3751291a9f35ced7e5aa8e1ddf3cadbc69be6b53471aa807282a47.jpg",
           "caption": "Gemini_Generated_Image_tem21ktem21ktem2"
         },
         {
-          "src": "assets/media-100.jpg",
+          "src": "assets/ajo-akhono-2025/2384f4c1da238367706d9dfee7d535684cc9de78a7d160a6cbfa656524aa0f4b.jpg",
           "caption": "Gemini_Generated_Image_vkb1ebvkb1ebvkb1"
         }
       ],
-      "audio": []
+      "audio": [],
+      "mediaFolder": "ajo-akhono-2025"
     },
     {
       "id": "project-65d7ed68-76ca-4530-b20e-c458a0bff2d5",
@@ -520,9 +529,10 @@
       "role": "I assisted the vocal harmony section with a baritone voice",
       "youtube": "https://youtu.be/wlZTmkctTug?si=0IwlahPVCbKMYLzp",
       "color": "#c4ef91",
-      "cover": "assets/media-101.jpg",
+      "cover": "assets/kazhchayay-pithaave/096c5709e38b80ad6fe1dbff633e9730e454de2ac149c05167ce590971bbe3e1.jpg",
       "images": [],
-      "audio": []
+      "audio": [],
+      "mediaFolder": "kazhchayay-pithaave"
     },
     {
       "id": "project-ab7aca7d-9981-4373-a94f-d78e85df02fc",
@@ -533,9 +543,10 @@
       "role": "I assisted the Vocal harmony section with Baritone voice",
       "youtube": "https://youtu.be/dJ9-obEe4mQ?si=UKtx3Ykoeep_bwRP",
       "color": "#c4ef91",
-      "cover": "assets/media-102.jpg",
+      "cover": "assets/nanma-niranja/bb3af444d4c3d9f015510abf5035c70a7b709cc7e2c1b47c3966866898ffb8d1.jpg",
       "images": [],
-      "audio": []
+      "audio": [],
+      "mediaFolder": "nanma-niranja"
     },
     {
       "id": "project-31c5e1f6-6a69-41ea-abbb-312c36300144",
@@ -546,9 +557,10 @@
       "role": "I assisted the vocal harmony section with baritone voice",
       "youtube": "https://youtu.be/Gbmoh5plx_w?si=HZW1UWGci1bi4bzu",
       "color": "#c4ef91",
-      "cover": "assets/media-103.jpg",
+      "cover": "assets/ruach/7f4ee35ca06305a5ea7221ccf4a614083db4e33b1db51a6fa472ce7f8e3c4b08.jpg",
       "images": [],
-      "audio": []
+      "audio": [],
+      "mediaFolder": "ruach"
     },
     {
       "id": "project-2dc2a854-c21a-4678-bb5e-4d47ace5e719",
@@ -559,9 +571,10 @@
       "role": "I assisted the vocal harmony section with Baritone voice",
       "youtube": "https://youtu.be/O-VP1NEJu_w?si=ntCuTwoVM2EHG5TY",
       "color": "#c4ef91",
-      "cover": "assets/media-104.jpg",
+      "cover": "assets/holy-eucharist-divyakarunyam/d7dc267d94a4f8a7286cead4d200c81086b6e04c5bb444a7ec1ef54eb6116167.jpg",
       "images": [],
-      "audio": []
+      "audio": [],
+      "mediaFolder": "holy-eucharist-divyakarunyam"
     }
   ]
 }
