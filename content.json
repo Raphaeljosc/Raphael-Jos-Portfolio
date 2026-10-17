@@ -135,6 +135,49 @@
       "mediaFolder": "chanel"
     },
     {
+      "id": "project-a1584303-d372-45d6-bf36-506efd852888",
+      "title": "Ramayana",
+      "category": "AI Microdrama",
+      "type": "India Today Flagship Project",
+      "description": "The Flagship AI Microdrama of India Today Group premiered on LifeTak",
+      "role": "I generated the frames, dialogues and animated the frames for the episodes under tight deadlines using ChatGPT, Elevenlabs, Higgsfield and Wan",
+      "youtube": "https://youtube.com/shorts/H9IOeVVxx-4?si=Eqahte3zJqq5c2XW",
+      "color": "#c4ef91",
+      "cover": "assets/project-a1584303-d372-45d6-bf36-506efd852888/417d6de4367a247424b27ab1c6e06fc0fcb9b82d5130a967336983d708a905ff.png",
+      "images": [
+        {
+          "src": "assets/project-a1584303-d372-45d6-bf36-506efd852888/f745d6adc02722b70f78cbc600cf7b4870188f2300308fc2c5ea52575aad0b16.jpg",
+          "caption": "21 copy"
+        },
+        {
+          "src": "assets/project-a1584303-d372-45d6-bf36-506efd852888/c44404264a97f4ec362d1535e8fbc4b46c2beca8586f285b2f4372587a56bde9.jpg",
+          "caption": "25 copy"
+        },
+        {
+          "src": "assets/project-a1584303-d372-45d6-bf36-506efd852888/9622ae9a3af1c9ddd16e6ac404d7cba903ab05b4fdb6a56c2b575afc8d79d951.jpg",
+          "caption": "EP 14_Scene_2_frame_2 copy"
+        },
+        {
+          "src": "assets/project-a1584303-d372-45d6-bf36-506efd852888/6962c631d2f94672da6d853a1ee2c42d645fb4e49e8b9f402d166e455aea64fa.jpg",
+          "caption": "EP 14_Scene_3_frame_2.3 copy"
+        },
+        {
+          "src": "assets/project-a1584303-d372-45d6-bf36-506efd852888/4ec09f8685f9e3ec0460818f2c610583542f0607cf41f57ef6fcfa53676b8572.jpg",
+          "caption": "EP11_SHOT_05_SKIN_SAFE_APPROVED copy"
+        },
+        {
+          "src": "assets/project-a1584303-d372-45d6-bf36-506efd852888/2c9b7e3f1471fd94b698c59b46d1d491304641cb683ce276e1e4263681d31f5b.jpg",
+          "caption": "EP11_SHOT_07.1_REVIEW copy"
+        },
+        {
+          "src": "assets/project-a1584303-d372-45d6-bf36-506efd852888/8b89e5ff9ac834de9e0fe4e2e0e2f2c93451e4d4b9aaeffff32fc819d255fd57.jpg",
+          "caption": "EP24_Shot_6.7_APPROVED copy"
+        }
+      ],
+      "audio": [],
+      "mediaFolder": "project-a1584303-d372-45d6-bf36-506efd852888"
+    },
+    {
       "id": "phonepe",
       "title": "PhonePe",
       "category": "Fintech",
@@ -203,27 +246,27 @@
       "role": "Music Production from Scratch - Lyrics, Music Generation, Editing and Final Production",
       "youtube": "https://youtu.be/FkfprNWksuY",
       "color": "#c4ef91",
-      "cover": "assets/a-road-without-name/07de3bb6d6d08870eda0ff4b5ca6692483ce2b57499859df0599c107215d8b42.png",
+      "cover": "assets/project-38e1fec4-bf54-4b40-9d1c-1debd523f126/07de3bb6d6d08870eda0ff4b5ca6692483ce2b57499859df0599c107215d8b42.png",
       "images": [
         {
-          "src": "assets/a-road-without-name/e66f641b421be6c7d60226557971dc9888c3681c58259e55704ccbbbbadcf8a3.jpg",
+          "src": "assets/project-38e1fec4-bf54-4b40-9d1c-1debd523f126/e66f641b421be6c7d60226557971dc9888c3681c58259e55704ccbbbbadcf8a3.jpg",
           "caption": "1 Suno prompt"
         },
         {
-          "src": "assets/a-road-without-name/63c9b0d6de0667ad65bbc711179d724eb089138f5d2b1f16219b4816494057c9.jpg",
+          "src": "assets/project-38e1fec4-bf54-4b40-9d1c-1debd523f126/63c9b0d6de0667ad65bbc711179d724eb089138f5d2b1f16219b4816494057c9.jpg",
           "caption": "2 Pre Edit Stems"
         },
         {
-          "src": "assets/a-road-without-name/ac3bcd932b870e13b1d182d09d068cf0bd59b85f4d4c86796d98ef87e0ee3276.jpg",
+          "src": "assets/project-38e1fec4-bf54-4b40-9d1c-1debd523f126/ac3bcd932b870e13b1d182d09d068cf0bd59b85f4d4c86796d98ef87e0ee3276.jpg",
           "caption": "3 Mixing"
         },
         {
-          "src": "assets/a-road-without-name/0e5d32de9b693a935bccc92fbb52ced713fb306339f6af7570544fcaa3d40cb9.jpg",
+          "src": "assets/project-38e1fec4-bf54-4b40-9d1c-1debd523f126/0e5d32de9b693a935bccc92fbb52ced713fb306339f6af7570544fcaa3d40cb9.jpg",
           "caption": "4 Post Edit"
         }
       ],
       "audio": [],
-      "mediaFolder": "a-road-without-name"
+      "mediaFolder": "project-38e1fec4-bf54-4b40-9d1c-1debd523f126"
     },
     {
       "id": "nike",
@@ -457,68 +500,68 @@
       "id": "project-48b0255a-9a5f-4099-8f03-8774caae555e",
       "title": "Ajo Akhono | 2025",
       "category": "Music Video",
-      "type": "Independent",
+      "type": "Personal Assignment by Manager",
       "description": "The first project of mine assigned by my manager to learn storyboarding",
       "role": "I Produced the Visuals of this music video from scratch. I translated the lyrics into English and then created the storyboard.",
       "youtube": "https://youtu.be/iJ4GS4UHiSg",
       "color": "#c4ef91",
-      "cover": "assets/ajo-akhono-2025/967f92aa60781768ada3c6b1b5b415a56fb5a7c675dd3f69e10c3269806482ed.jpg",
+      "cover": "assets/project-48b0255a-9a5f-4099-8f03-8774caae555e/967f92aa60781768ada3c6b1b5b415a56fb5a7c675dd3f69e10c3269806482ed.jpg",
       "images": [
         {
-          "src": "assets/ajo-akhono-2025/bf23809c6820d1fa89d95137285a24a3afcf2772cae67a13803372e1df74e440.jpg",
+          "src": "assets/project-48b0255a-9a5f-4099-8f03-8774caae555e/bf23809c6820d1fa89d95137285a24a3afcf2772cae67a13803372e1df74e440.jpg",
           "caption": "2 Gemini_Generated_Image_txfqd3txfqd3txfq"
         },
         {
-          "src": "assets/ajo-akhono-2025/4bd4118680eb0a59f2120edeab61045a47860be470db327587fa1919a0e4cb0e.jpg",
+          "src": "assets/project-48b0255a-9a5f-4099-8f03-8774caae555e/4bd4118680eb0a59f2120edeab61045a47860be470db327587fa1919a0e4cb0e.jpg",
           "caption": "Firefly_Gemini Flash_the shirt is not tucked in. preserve everything including the lighting exactly the sa 103297"
         },
         {
-          "src": "assets/ajo-akhono-2025/967f92aa60781768ada3c6b1b5b415a56fb5a7c675dd3f69e10c3269806482ed.jpg",
+          "src": "assets/project-48b0255a-9a5f-4099-8f03-8774caae555e/967f92aa60781768ada3c6b1b5b415a56fb5a7c675dd3f69e10c3269806482ed.jpg",
           "caption": "Gemini_Generated_Image_8vo6eh8vo6eh8vo6"
         },
         {
-          "src": "assets/ajo-akhono-2025/9d67899abd79fcb9e3f4e4ffd605e49ea65e9954427354fcd697efa551e1e0c4.jpg",
+          "src": "assets/project-48b0255a-9a5f-4099-8f03-8774caae555e/9d67899abd79fcb9e3f4e4ffd605e49ea65e9954427354fcd697efa551e1e0c4.jpg",
           "caption": "Gemini_Generated_Image_cofy31cofy31cofy"
         },
         {
-          "src": "assets/ajo-akhono-2025/001eb164a0edf28e62b60cdcf96a8c8ba376edfc9fd84e17d11dd156bdb682f1.jpg",
+          "src": "assets/project-48b0255a-9a5f-4099-8f03-8774caae555e/001eb164a0edf28e62b60cdcf96a8c8ba376edfc9fd84e17d11dd156bdb682f1.jpg",
           "caption": "Gemini_Generated_Image_cst4xpcst4xpcst4"
         },
         {
-          "src": "assets/ajo-akhono-2025/19ae9d171a31f60cd766415ea82ccc6d3d9e37e47d50af05ea931bdd87217407.jpg",
+          "src": "assets/project-48b0255a-9a5f-4099-8f03-8774caae555e/19ae9d171a31f60cd766415ea82ccc6d3d9e37e47d50af05ea931bdd87217407.jpg",
           "caption": "Gemini_Generated_Image_e98wwle98wwle98w"
         },
         {
-          "src": "assets/ajo-akhono-2025/e99b8b3b1f761e80bfc459636a37a00b766c5965ec1ae97452beb069a8e47173.jpg",
+          "src": "assets/project-48b0255a-9a5f-4099-8f03-8774caae555e/e99b8b3b1f761e80bfc459636a37a00b766c5965ec1ae97452beb069a8e47173.jpg",
           "caption": "Gemini_Generated_Image_kj00cekj00cekj00"
         },
         {
-          "src": "assets/ajo-akhono-2025/b5b179a0215a4c684f093e3b8f70e6a28b0219e34b539dc8268af53c76bc45e5.jpg",
+          "src": "assets/project-48b0255a-9a5f-4099-8f03-8774caae555e/b5b179a0215a4c684f093e3b8f70e6a28b0219e34b539dc8268af53c76bc45e5.jpg",
           "caption": "Gemini_Generated_Image_ody8bxody8bxody8"
         },
         {
-          "src": "assets/ajo-akhono-2025/577636841964226e9f6e75807d58aa0e105cd7a611cb1b0153f395ce8f5b2881.jpg",
+          "src": "assets/project-48b0255a-9a5f-4099-8f03-8774caae555e/577636841964226e9f6e75807d58aa0e105cd7a611cb1b0153f395ce8f5b2881.jpg",
           "caption": "Gemini_Generated_Image_p0au3vp0au3vp0au"
         },
         {
-          "src": "assets/ajo-akhono-2025/e9d282720b9c2f80e812124dbeeb6643f97ab66042dc98bc55ee5f6cf0ac8629.jpg",
+          "src": "assets/project-48b0255a-9a5f-4099-8f03-8774caae555e/e9d282720b9c2f80e812124dbeeb6643f97ab66042dc98bc55ee5f6cf0ac8629.jpg",
           "caption": "Gemini_Generated_Image_p1sq89p1sq89p1sq"
         },
         {
-          "src": "assets/ajo-akhono-2025/72522be19b0447357424369fe0dffbe0f39b69642078b7cdf2544776a46bcbcd.jpg",
+          "src": "assets/project-48b0255a-9a5f-4099-8f03-8774caae555e/72522be19b0447357424369fe0dffbe0f39b69642078b7cdf2544776a46bcbcd.jpg",
           "caption": "Gemini_Generated_Image_pn2cadpn2cadpn2c"
         },
         {
-          "src": "assets/ajo-akhono-2025/d396635ead3751291a9f35ced7e5aa8e1ddf3cadbc69be6b53471aa807282a47.jpg",
+          "src": "assets/project-48b0255a-9a5f-4099-8f03-8774caae555e/d396635ead3751291a9f35ced7e5aa8e1ddf3cadbc69be6b53471aa807282a47.jpg",
           "caption": "Gemini_Generated_Image_tem21ktem21ktem2"
         },
         {
-          "src": "assets/ajo-akhono-2025/2384f4c1da238367706d9dfee7d535684cc9de78a7d160a6cbfa656524aa0f4b.jpg",
+          "src": "assets/project-48b0255a-9a5f-4099-8f03-8774caae555e/2384f4c1da238367706d9dfee7d535684cc9de78a7d160a6cbfa656524aa0f4b.jpg",
           "caption": "Gemini_Generated_Image_vkb1ebvkb1ebvkb1"
         }
       ],
       "audio": [],
-      "mediaFolder": "ajo-akhono-2025"
+      "mediaFolder": "project-48b0255a-9a5f-4099-8f03-8774caae555e"
     },
     {
       "id": "project-65d7ed68-76ca-4530-b20e-c458a0bff2d5",
@@ -529,10 +572,10 @@
       "role": "I assisted the vocal harmony section with a baritone voice",
       "youtube": "https://youtu.be/wlZTmkctTug?si=0IwlahPVCbKMYLzp",
       "color": "#c4ef91",
-      "cover": "assets/kazhchayay-pithaave/096c5709e38b80ad6fe1dbff633e9730e454de2ac149c05167ce590971bbe3e1.jpg",
+      "cover": "assets/project-65d7ed68-76ca-4530-b20e-c458a0bff2d5/096c5709e38b80ad6fe1dbff633e9730e454de2ac149c05167ce590971bbe3e1.jpg",
       "images": [],
       "audio": [],
-      "mediaFolder": "kazhchayay-pithaave"
+      "mediaFolder": "project-65d7ed68-76ca-4530-b20e-c458a0bff2d5"
     },
     {
       "id": "project-ab7aca7d-9981-4373-a94f-d78e85df02fc",
@@ -543,10 +586,10 @@
       "role": "I assisted the Vocal harmony section with Baritone voice",
       "youtube": "https://youtu.be/dJ9-obEe4mQ?si=UKtx3Ykoeep_bwRP",
       "color": "#c4ef91",
-      "cover": "assets/nanma-niranja/bb3af444d4c3d9f015510abf5035c70a7b709cc7e2c1b47c3966866898ffb8d1.jpg",
+      "cover": "assets/project-ab7aca7d-9981-4373-a94f-d78e85df02fc/bb3af444d4c3d9f015510abf5035c70a7b709cc7e2c1b47c3966866898ffb8d1.jpg",
       "images": [],
       "audio": [],
-      "mediaFolder": "nanma-niranja"
+      "mediaFolder": "project-ab7aca7d-9981-4373-a94f-d78e85df02fc"
     },
     {
       "id": "project-31c5e1f6-6a69-41ea-abbb-312c36300144",
@@ -557,10 +600,10 @@
       "role": "I assisted the vocal harmony section with baritone voice",
       "youtube": "https://youtu.be/Gbmoh5plx_w?si=HZW1UWGci1bi4bzu",
       "color": "#c4ef91",
-      "cover": "assets/ruach/7f4ee35ca06305a5ea7221ccf4a614083db4e33b1db51a6fa472ce7f8e3c4b08.jpg",
+      "cover": "assets/project-31c5e1f6-6a69-41ea-abbb-312c36300144/7f4ee35ca06305a5ea7221ccf4a614083db4e33b1db51a6fa472ce7f8e3c4b08.jpg",
       "images": [],
       "audio": [],
-      "mediaFolder": "ruach"
+      "mediaFolder": "project-31c5e1f6-6a69-41ea-abbb-312c36300144"
     },
     {
       "id": "project-2dc2a854-c21a-4678-bb5e-4d47ace5e719",
@@ -571,10 +614,10 @@
       "role": "I assisted the vocal harmony section with Baritone voice",
       "youtube": "https://youtu.be/O-VP1NEJu_w?si=ntCuTwoVM2EHG5TY",
       "color": "#c4ef91",
-      "cover": "assets/holy-eucharist-divyakarunyam/d7dc267d94a4f8a7286cead4d200c81086b6e04c5bb444a7ec1ef54eb6116167.jpg",
+      "cover": "assets/project-2dc2a854-c21a-4678-bb5e-4d47ace5e719/d7dc267d94a4f8a7286cead4d200c81086b6e04c5bb444a7ec1ef54eb6116167.jpg",
       "images": [],
       "audio": [],
-      "mediaFolder": "holy-eucharist-divyakarunyam"
+      "mediaFolder": "project-2dc2a854-c21a-4678-bb5e-4d47ace5e719"
     }
   ]
 }
