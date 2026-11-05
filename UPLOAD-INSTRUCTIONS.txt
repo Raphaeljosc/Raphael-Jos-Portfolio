@@ -1,23 +1,24 @@
-OCTOBER 17 PORTFOLIO REPAIR — READABLE FOLDERS AND FILENAMES
+COMPLETE PORTFOLIO
 
-All 14 projects, their order, and their content are preserved from your October 17 export. The original folders were not modified.
-1. Extract this ZIP. At the GitHub repository root, upload the assets folder containing all 14 named project subfolders. If you are already inside assets on GitHub, upload the subfolders instead. Do not create assets/assets/.
-2. If uploading in batches, finish and commit ALL assets first. Old hashed files and ID folders may remain during the transition; no deletion is necessary.
-3. At the repository root, replace editor.js and editor.html. Then upload content.json LAST. The rest of the website code is unchanged and is included as a complete archive.
-4. Wait for GitHub Pages to publish. Open the public website and hard-refresh it (Command + Shift + R).
-5. Open editor.html and hard-refresh. Before editing, click Load published portfolio to replace your older browser draft with this repaired version. Back up any unpublished work first. Alternatively restore the separately supplied portfolio-readable-17-oct-backup.json, then Save draft.
+This ZIP contains the website code, content.json, and all referenced media.
 
-FUTURE PROJECTS: Add project, enter a meaningful title, and upload images/audio. Download update ZIP. A new folder uses that project title, e.g. assets/new-music-video/. Existing project folders keep their names when reordered or renamed.
-Media filenames come from your uploaded filenames. Spaces/unsafe URL characters are normalized; duplicates or replacements receive -2, -3, etc. There are no random IDs or long fingerprints in filenames.
-For older media, original filenames were not retained by the old exporter. Existing captions supply readable names where available; covers without a saved name use cover.jpg/png. No image or audio bytes were changed.
-Exporting saves naming choices in your browser draft. It does not publish to GitHub. Upload new assets first, then content.json. Download update ZIP compares against the published website and includes missing/replaced files too.
-Keep the separate JSON backup private. Do not upload it to GitHub.
+1. Extract this ZIP. Do not rename its media files or folders.
+2. Upload the assets folder at the repository root (beside index.html). If uploading inside the existing assets folder, upload its project subfolders instead.
+3. For multiple uploads, commit all assets first. Upload content.json LAST so every referenced file is available.
+4. Wait for GitHub Pages to publish and refresh the public website.
 
-PROJECT FOLDERS:
+FIRST EXPORT WITH READABLE NAMES: upload every included file once. Existing hashed files and ID folders can remain during the transition.
+LATER UPDATES: reordering projects, changing text, or deleting a frame needs only content.json. New/replaced media has a new stable filename and is included automatically.
+Exporting does not publish or erase your browser draft. An update ZIP may contain other unpublished changes in your current draft too.
+Do not restore an older backup when making later updates unless you intend to restore that older content.
+Keep a JSON backup or full website ZIP; an update ZIP alone is not a complete backup.
+
+PROJECT FOLDERS (named from titles when created; later title edits keep existing folder names stable):
 Mahindra BE6 -> assets/mahindra-be6/
 Chanel -> assets/chanel/
 Ramayana -> assets/ramayana/
 PhonePe -> assets/phonepe/
+Nobero Meta Ad -> assets/nobero-meta-ad/
 A Road Without Name -> assets/a-road-without-name/
 Nike -> assets/nike/
 Nykaa -> assets/nykaa/
@@ -28,3 +29,5 @@ Kazhchayay Pithaave -> assets/kazhchayay-pithaave/
 Nanma Niranja -> assets/nanma-niranja/
 Ruach -> assets/ruach/
 Holy Eucharist | Divyakarunyam -> assets/holy-eucharist-divyakarunyam/
+
+This instructions file does not need to be uploaded.

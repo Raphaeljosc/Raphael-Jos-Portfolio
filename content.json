@@ -340,6 +340,56 @@
       "namingVersion": 2
     },
     {
+      "id": "project-c389559a-3183-4bd2-ace7-b1bc881d5d86",
+      "title": "Nobero Meta Ad",
+      "category": "Brand film",
+      "type": "Independent concept campaign",
+      "description": "I created this as a part of my skill test to challenge my creativity.",
+      "role": "I own the complete production pipeline. Images Generated on ChatGPT and animated on Wan 3.0",
+      "youtube": "https://www.youtube.com/shorts/fPM3EyaLfYw",
+      "color": "#c4ef91",
+      "cover": "assets/nobero-meta-ad/3.png",
+      "images": [
+        {
+          "src": "assets/nobero-meta-ad/3.jpg",
+          "filename": "3.jpg",
+          "caption": "3"
+        },
+        {
+          "src": "assets/nobero-meta-ad/6.jpg",
+          "filename": "6.jpg",
+          "caption": "6"
+        },
+        {
+          "src": "assets/nobero-meta-ad/11.jpg",
+          "filename": "11.jpg",
+          "caption": "11"
+        },
+        {
+          "src": "assets/nobero-meta-ad/12.jpg",
+          "filename": "12.jpg",
+          "caption": "12"
+        },
+        {
+          "src": "assets/nobero-meta-ad/1-2-3-4.jpg",
+          "filename": "1-2-3-4.jpg",
+          "caption": "1 2 3 4"
+        }
+      ],
+      "audio": [],
+      "coverFilename": "3.png",
+      "mediaFolder": "nobero-meta-ad",
+      "mediaFiles": {
+        "2600de0d88ba653925411eb95cab2845e79a3e47232d331401e4be5c1e117bc9": "3.png",
+        "541bcee231064d5e6aad74e172376de75d8190dc06f5d832d77d7365082e79dd": "3.jpg",
+        "05cfd0f107641f05d78c467c3a9a35be2692970e8ed685cbf133deec1a133755": "6.jpg",
+        "45cbc0115eca6e8ab8c0df126ff161c5ae58b68d225f47895b052d2ecba13655": "11.jpg",
+        "3dd801637a30ee6ced873520f726fe3759995f2e598d414ea78f73e53470c838": "12.jpg",
+        "22b2ba3f9949c3ae4e0c9e5ff237d4b2d032ce6ce4bbf30e673812ec0e8cda06": "1-2-3-4.jpg"
+      },
+      "namingVersion": 2
+    },
+    {
       "id": "project-38e1fec4-bf54-4b40-9d1c-1debd523f126",
       "title": "A Road Without Name",
       "category": "AI Generated Music",
